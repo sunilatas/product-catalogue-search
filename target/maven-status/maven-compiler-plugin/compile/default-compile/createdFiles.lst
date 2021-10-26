@@ -1,0 +1,14 @@
+com/sapient/productCatalogue/controller/ProductController.class
+com/sapient/productCatalogue/services/IProductService.class
+com/sapient/productCatalogue/repository/SizeRepository.class
+com/sapient/productCatalogue/services/ProductServiceImpl.class
+com/sapient/productCatalogue/model/Make.class
+com/sapient/productCatalogue/model/Size.class
+com/sapient/productCatalogue/model/Colour.class
+com/sapient/productCatalogue/repository/ProductRepository.class
+com/sapient/productCatalogue/model/Category.class
+com/sapient/productCatalogue/ProductCatalogueApplication.class
+com/sapient/productCatalogue/model/Product.class
+com/sapient/productCatalogue/repository/MakeRepository.class
+com/sapient/productCatalogue/repository/ColourRepository.class
+com/sapient/productCatalogue/repository/CategoryRepository.class
